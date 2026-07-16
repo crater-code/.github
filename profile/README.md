@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="01 - Main CC.png" alt="Crater Code Logo" width="200" />
+<img src="https://www.cratercode.com/logo_in_black.jpeg" alt="Crater Code Logo" width="250" />
 
 # 🚀 Crater Code Pvt. Ltd.
 
