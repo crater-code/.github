@@ -6,13 +6,13 @@
 
 **Building Intelligent Software | Empowering Businesses | Transforming Education**
 
-[![Website](https://img.shields.io/badge/website-cratercode.com-blue?style=for-the-badge&logo=globe)](https://www.cratercode.com/)
+[![Website](https://img.shields.io/badge/website-cratercode.com-orange?style=for-the-badge&logo=globe)](https://www.cratercode.com/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-crater--code-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/company/crater-code/)
 [![Twitter](https://img.shields.io/badge/twitter-@Crater__code-1DA1F2?style=for-the-badge&logo=x)](https://x.com/Crater_code)
 [![Email](https://img.shields.io/badge/email-info%40cratercode.com-EA4335?style=for-the-badge&logo=gmail)](mailto:info@cratercode.com)
 
 ![Crater Code Banner](https://img.shields.io/badge/Pakistan%20Based-Software%20Company-green?style=flat-square)
-![Since](https://img.shields.io/badge/Since-2018-blue?style=flat-square)
+![Since](https://img.shields.io/badge/Since-2025-orange?style=flat-square)
 ![Active](https://img.shields.io/badge/Status-Actively%20Building-success?style=flat-square)
 
 </div>
@@ -343,15 +343,6 @@ We believe in giving back to the community and fostering collaboration. We activ
 
 ---
 
-## 📈 GitHub Insights
-
-<div align="center">
-
-[![GitHub followers](https://img.shields.io/github/followers/cratercode?style=social)](https://github.com/cratercode)
-[![GitHub User's stars](https://img.shields.io/github/stars/cratercode?style=social)](https://github.com/cratercode)
-
-</div>
-
 ---
 
 ## 💬 Let's Connect
@@ -385,6 +376,6 @@ Thank you for visiting our GitHub profile. Whether you're a potential partner, c
 
 **Made with ❤️ in Pakistan**
 
-© 2024 Crater Code Pvt. Ltd. All rights reserved.
+© 2026 Crater Code Pvt. Ltd. All rights reserved.
 
 </div>
