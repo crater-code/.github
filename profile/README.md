@@ -288,35 +288,35 @@ We believe in building software that lasts. Our principles guide every line of c
 <div align="center">
 
 ```
-                 ┌─────────────────────────────────────┐
-                 │   Research & Planning               │
-                 │   📋 Requirements Gathering         │
-                 └──────────────┬──────────────────────┘
-                                │
-                 ┌──────────────▼──────────────────────┐
-                 │   Design & Architecture             │
-                 │   🎨 UI/UX & System Design          │
-                 └──────────────┬──────────────────────┘
-                                │
-                 ┌──────────────▼──────────────────────┐
-                 │   Development                       │
-                 │   💻 Building with Clean Code       │
-                 └──────────────┬──────────────────────┘
-                                │
-                 ┌──────────────▼──────────────────────┐
-                 │   Quality Assurance & Testing       │
-                 │   ✅ Comprehensive Test Coverage    │
-                 └──────────────┬──────────────────────┘
-                                │
-                 ┌──────────────▼──────────────────────┐
-                 │   Deployment                        │
-                 │   🚀 Continuous Integration/Deploy  │
-                 └──────────────┬──────────────────────┘
-                                │
-                 ┌──────────────▼──────────────────────┐
-                 │   Maintenance & Support             │
-                 │   🛡️ Monitoring & Optimization      │
-                 └─────────────────────────────────────┘
+┌─────────────────────────────────────┐
+│   Research & Planning               │
+│   📋 Requirements Gathering         │
+└──────────────┬──────────────────────┘
+               │
+┌──────────────▼──────────────────────┐
+│   Design & Architecture             │
+│   🎨 UI/UX & System Design          │
+└──────────────┬──────────────────────┘
+               │
+┌──────────────▼──────────────────────┐
+│   Development                       │
+│   💻 Building with Clean Code       │
+└──────────────┬──────────────────────┘
+               │
+┌──────────────▼──────────────────────┐
+│   Quality Assurance & Testing       │
+│   ✅ Comprehensive Test Coverage    │
+└──────────────┬──────────────────────┘
+               │
+┌──────────────▼──────────────────────┐
+│   Deployment                        │
+│   🚀 Continuous Integration/Deploy  │
+└──────────────┬──────────────────────┘
+               │
+┌──────────────▼──────────────────────┐
+│   Maintenance & Support             │
+│   🛡️ Monitoring & Optimization      │
+└─────────────────────────────────────┘
 ```
 
 </div>
